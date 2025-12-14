@@ -47,7 +47,7 @@ Follow these steps to set up the project locally.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/repo-mirror-ai.git
+   git clone https://github.com/ShubhangiPawar4/repo-mirror-ai.git
    cd repo-mirror-ai
    ```
 
@@ -89,7 +89,7 @@ Follow these steps to set up the project locally.
 
 ## 📸 Usage
 
-1. Enter a GitHub URL (e.g., `https://github.com/facebook/react`).
+1. Enter a GitHub URL (e.g., `https://github.com/ShubhangiPawar4/repo-mirror-ai.git`).
 2. Click **Analyze**.
 3. Wait for the "Connecting to GitHub", "Fetching Files", and "Consulting AI Mentor" steps to complete.
 4. Review your personalized dashboard!
