@@ -1,0 +1,4 @@
+{
+  "name": "RepoMirror AI",
+  "description": "An intelligent system that evaluates GitHub repositories to provide scores, summaries, and personalized developer roadmaps using Gemini 2.5."
+}
